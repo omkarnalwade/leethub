@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkarnalwade/leethub/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/omkarnalwade/leethub/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omkarnalwade/leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/omkarnalwade/leethub/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/omkarnalwade/leethub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
