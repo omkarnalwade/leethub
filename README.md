@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/omkarnalwade/leethub/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/omkarnalwade/leethub/tree/master/0125-valid-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omkarnalwade/leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/omkarnalwade/leethub/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkarnalwade/leethub/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/omkarnalwade/leethub/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
